@@ -1,5 +1,13 @@
 ## Bem vindo ao meu perfil! 👋
 
+* Se apresentar
+
+* O que está fazendo (p5js)
+
+* Para que criou o GitHub
+
+* Contato
+
 <!--
 **MrFeynman-Marmorato/MrFeynman-Marmorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
