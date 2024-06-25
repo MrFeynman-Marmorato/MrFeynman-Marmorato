@@ -1,12 +1,14 @@
-## Bem vindo ao meu perfil! 👋
+# Bem vindo ao meu perfil! 👋
 
-* Se apresentar
+Meu nome é **Rafael Munhoz**
 
-* O que está fazendo (p5js)
+* Sou professor da matéria "Tecnologia e Inovação" da rede estadual de ensino.
+* Estou ministrando um curso com base na linguagem javascript, na biblioteca p5js, fornecido pela plataforma AluraStart.
+* Utilizo esse espaço para organização e compartilhamento dos projetos desenvolvidos em sala de aula com os alunos.
+  
+### Meu Contato :📭
 
-* Para que criou o GitHub
-
-* Contato
+munhozr@gmail.com
 
 <!--
 **MrFeynman-Marmorato/MrFeynman-Marmorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
